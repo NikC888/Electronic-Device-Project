@@ -1,8 +1,8 @@
-#### BasicStructure
+#### Electronic Device Project
 
-### Date
+### April 9, 2016
 
-Basic structure for future projects
+Practice and template for subclasses
 
 * Git
 * Java 7
